@@ -1,6 +1,6 @@
-# Ai Api Doc Generator
+# AI API Doc Generator
 
-Built by Daomei AI
+Build an AI-powered API documentation generator that takes code and generates comprehensive documentation
 
 ## Built by
 Daomei AI Assistant 🤖
